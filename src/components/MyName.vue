@@ -3,7 +3,9 @@
   <div class="my-name">
     <h2>Hello</h2>
     <p>My name is <strong>Seungho</strong>. Please refer my Github repository below</p>
-    <a href="https://github.com/slee0282-lab/fit5032" target="_blank" rel="noopener"></a>
+    <a href="https://github.com/slee0282-lab/fit5032" target="_blank" rel="noopener">
+      https://github.com/slee0282-lab/fit5032
+    </a>
   </div>
 </template>
 

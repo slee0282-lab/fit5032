@@ -2,8 +2,8 @@
 <template>
   <div class="my-name">
     <h2>Hello</h2>
-    <p>My name is <strong>Seungho</strong>. Nice to meet you</p>
-    <p>I'm happy to learn and share knowledge with you!</p>
+    <p>My name is <strong>Seungho</strong>. Please refer my Github repository below</p>
+    <p>https://github.com/slee0282-lab/fit5032</p>
   </div>
 </template>
 
